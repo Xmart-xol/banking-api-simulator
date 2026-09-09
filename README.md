@@ -17,11 +17,17 @@ A production-inspired banking backend built with .NET 10, ASP.NET Core, EF Core,
 The solution follows a layered architecture:
 
 API
+
 ↓
+
 Application
+
 ↓
+
 Domain
+
 ↓
+
 Infrastructure
 
 See full architecture documentation:
