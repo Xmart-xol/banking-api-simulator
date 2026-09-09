@@ -1,2 +1,5 @@
-# banking-api-simulator
-Enterprise-style banking backend demonstrating account management, money transfers, transaction history, audit logging, and secure API design using .NET 8.
+# Banking API Simulator
+
+A production-inspired banking backend built with ASP.NET Core 8, Entity Framework Core, SQL Server, and JWT Authentication.
+
+The project demonstrates enterprise software engineering concepts including Clean Architecture, secure API design, transaction processing, audit logging, automated testing, and cloud deployment practices.
